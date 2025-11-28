@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ **README 2 — Face Detection (OpenCV)**
+# ✅ **Face Detection (OpenCV)**
 
 ```md
 # 👁️ Face Detection com OpenCV
